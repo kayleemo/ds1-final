@@ -8,5 +8,5 @@ I created a regression problem using mid-career salary of graduated undergraduat
 ## Code
 Please find the code for my project here: <https://github.com/kayleemo/ds1-final/blob/main/ds1_final_code.ipynb>
 
-## Report and Analysis
-Please find my completed report with analysis and insights on my project here: <https://github.com/kayleemo/ds1-final/blob/main/ds1_final_report.ipynb>
+## Full Report and Analysis
+Please find my full completed report with analysis and insights on my project here: <https://github.com/kayleemo/ds1-final/blob/main/ds1_final_report.ipynb>
